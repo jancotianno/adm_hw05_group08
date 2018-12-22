@@ -1,5 +1,7 @@
 # adm_hw05_group08
 
+__Note that:__ If you want to run the code you need to start from the `RQ1.ipynb` in order to create a pickle file you'll need to run the `RQ2.ipynb`
+
 ## Collection of files:
 
 1. __`RQ1.ipynb`__: 
