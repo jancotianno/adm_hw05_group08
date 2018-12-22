@@ -1,5 +1,7 @@
 # adm_hw05_group08
 
+I've changed to directed graph:
+
 I'm done with block_ranking, even if I obtaind all the medians equal just to 4 and 3, I wrote it on slack, let's see...
 Read it and tell me if you don't understand something or if I did something wrong
 
