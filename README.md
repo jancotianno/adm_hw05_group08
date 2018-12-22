@@ -1,8 +1,15 @@
 # adm_hw05_group08
 
-I've changed to directed graph:
+## Collection of files:
 
-I'm done with block_ranking, even if I obtaind all the medians equal just to 4 and 3, I wrote it on slack, let's see...
-Read it and tell me if you don't understand something or if I did something wrong
+1. __`RQ1.ipynb`__: 
+	The notebook for the Research question 1.
 
-You have to run before the RQ1 to create the file Graph adn then you can run RQ2, using the 2 picke files "final_dict" and "medians"
+2. __`RQ2.ipynb`__: 
+	The notebook for the Research question 2.
+  
+3. __`final_dict`__: 
+	A very important pickle file if you want to run the code. It containt the result of the BFS for every node of the input category, that required 2 hours of execution (you can avoid to do it again using this pickle file).
+
+4. __`medians`__: 
+	An other pickle file containing a dictionary of all medians to build the block_ranking.
