@@ -11,7 +11,7 @@ __Note that:__ If you want to run the code you need to start from the `RQ1.ipynb
 	The notebook for the Research question 2.
   
 3. __`final_dict`__: 
-	A very important pickle file if you want to run the code. It containt the result of the BFS for every node of the input category, that required 2 hours of execution (you can avoid to do it again using this pickle file).
+	A very important pickle file if you want to run the code. It contains the result of the BFS for every node of the input category, that required 2 hours of execution (you can avoid to do it again using this pickle file).
 
 4. __`medians`__: 
 	An other pickle file containing a dictionary of all medians to build the block_ranking.
